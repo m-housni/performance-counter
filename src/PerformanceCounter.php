@@ -1,6 +1,6 @@
 <?php
 
-namespace ClarkeTech\PerformanceCounter;
+namespace ClarkeTech\PerformanceCounter; // namespace acts as the folder path of the current file classes
 
 /**
  * Calculates the average iteration time for a given process
